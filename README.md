@@ -27,6 +27,12 @@
 
 </ul>
 
+# Dipendeze-Addictions:
+
+<ul>
+  <li><a href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">Font Awesome</a></li>
+  </ul>
+
 # What icons are there?
 
 Go to : <a href="http://repo.altervista.org/template/iconpack">Live Demo</a> to see all the icons present
