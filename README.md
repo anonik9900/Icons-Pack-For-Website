@@ -17,7 +17,7 @@
  <ul>
   <li>Include the online css:
     
-    <code>&lt;link href="https://dl.dropbox.com/s/he3x0702illf7fw/Icon_pack_by_anonik.css?dl=0" type="text/css" rel="stylesheet"></code></li>
+ <code>&lt;link href="https://dl.dropbox.com/s/he3x0702illf7fw/Icon_pack_by_anonik.css?dl=0" type="text/css" rel="stylesheet"></code></li>
   
   Or
   
