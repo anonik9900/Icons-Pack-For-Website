@@ -16,11 +16,13 @@
  <h2>Second Option</h2>
  <ul>
   <li>Include the online css:
+    
     <code>&lt;link href="https://dl.dropbox.com/s/he3x0702illf7fw/Icon_pack_by_anonik.css?dl=0" type="text/css" rel="stylesheet"></code></li>
   
   Or
   
   <li>Include the online compressed css:
+  
   <code>&lt;link href="https://dl.dropbox.com/s/rumauw15dol8ju5/icon_pack_min.css?dl=0" type="text/css" rel="stylesheet"></code></li>
 
 </ul>
