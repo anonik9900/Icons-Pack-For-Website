@@ -10,7 +10,8 @@
   <li>Include the css in the html page :
     <code>&lt;link href="css/icon_pack_by_anonik.css" type="text/css" rel="stylesheet"></code></li>
   <li>Include Font-Awesome:<br>
-    <code>&lt;link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css"    rel="stylesheet"></code></li>
+    <code>
+&lt;link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css" rel="stylesheet"></code></li>
     </ul>
     
  <br>
