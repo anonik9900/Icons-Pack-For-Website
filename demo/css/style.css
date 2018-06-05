@@ -1,0 +1,257 @@
+/*=============================================
+Devolved by Anonik v0.1
+
+Copyright © 2018 Anonik All Rights Reserved
+
+You can't Upload this Project without credits.
+
+==============================================*/
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+/*=====================
+  SOCIAL SQUARE ICONS
+=======================*/
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+.fa-pinterest {
+  background: #cb2027;
+  color: white;
+}
+
+.fa-snapchat-ghost {
+  background: #fffc00;
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.fa-skype {
+  background: #00aff0;
+  color: white;
+}
+
+.fa-dribbble {
+  background: #ea4c89;
+  color: white;
+}
+
+.fa-vimeo {
+  background: #45bbff;
+  color: white;
+}
+
+.fa-tumblr {
+  background: #2c4762;
+  color: white;
+}
+
+.fa-vine {
+  background: #00b489;
+  color: white;
+}
+
+
+.fa-telegram {
+  background: #0088CC;
+  color: white;
+}
+
+.fa-flickr {
+  background: #f40083;
+  color: white;
+}
+
+.fa-yahoo {
+  background: #430297;
+  color: white;
+}
+
+.fa-soundcloud {
+  background: #ff5500;
+  color: white;
+}
+
+.fa-reddit {
+  background: #ff5700;
+  color: white;
+}
+
+.fa-rss {
+  background: #ff6600;
+  color: white;
+}
+
+.fa-github{
+  background: black;
+  color: white;
+}
+
+.fa-twitch{
+  background: #6441A4;
+  color: white;
+}
+
+.fa-whatsapp{
+  background: #4FCE5D;
+  color: white;
+}
+
+.fa-vk{
+  background: #5181B8;
+  color: white;
+}
+
+.fa-weixin{
+  background: #5CC928;
+  color: white;
+}
+
+/*=====================
+    SERVICE SQUARE
+=======================*/
+
+.fa-android {
+  background: #a4c639;
+  color: white;
+}
+
+.fa-steam{
+  background: black;
+  color: white;
+}
+
+.fa-apple{
+  background: black;
+  color: white;
+}
+
+.fa-paypal{
+  background: #238ae6;
+  color: white;
+}
+
+.fa-tripadvisor{
+  background: green;
+  color:white;
+}
+
+.fa-google-wallet{
+  background: orange;
+  color: white;
+}
+
+.fa-cc-visa{
+  background: #192061;
+  color: white;
+}
+
+.fa-btc{
+  background: orange;
+  color: white;
+}
+
+.fa-dropbox{
+  background: blue;
+  color: white;
+}
+
+.fa-amazon{
+  background: black;
+  color: white;
+}
+
+.fa-drupal{
+  background: #25AAE1;
+  color: white;
+}
+
+.fa-linux{
+  background: darkorange;
+  color: white;
+}
+
+.fa-joomla{
+  background: black;
+  color: white;
+}
+
+.fa-wordpress{
+  background: #00749C;
+  color: white;
+}
+
+.fa-spotify{
+  background: #1ED761;
+  color: white;
+}
+
+.fa-wikipedia-w{
+  background: black;
+  color:white;
+}
+
+.fa-bluetooth{
+  background: darkblue;
+  color: white;
+}
+
+.fa-deviantart{
+  background: #05CC46;
+  color: white;
+}
+
+.fa-yoast{
+  background: purple;
+  color: white;
+}
+
+.fa-codepen{
+  background: black;
+  color: white;
+}
+
+.fa-gitlab{
+  background: black;
+  color: orange;
+}
