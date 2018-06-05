@@ -26,3 +26,8 @@
   <code>&lt;link href="https://dl.dropbox.com/s/rumauw15dol8ju5/icon_pack_min.css?dl=0" type="text/css" rel="stylesheet"></code></li>
 
 </ul>
+
+# What icons are there?
+
+Go to : <a href="http://repo.altervista.org/template/iconpack">Live Demo</a> to see all the icons present
+
